@@ -1,7 +1,5 @@
-# 시각장애인을 위한 스마트 선글라스
-2021-2 기업사회맞춤형캡스톤디자인2 - 멋진코끼리팀
+# 시각장애인을 위한 스마트 선글라스 - 멋진코끼리팀
 =============
-
 
 ## YouTube 발표 영상 링크
 https://www.youtube.com/watch?v=8NaU5azHdhg&list=PLysGR-hSRFyGE45dD5FJXEER9x7MNO9tc&index=4
