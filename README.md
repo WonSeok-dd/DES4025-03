@@ -1,4 +1,4 @@
-# 시각장애인을 위한 스마트 선글라스 - 멋진코끼리팀
+# 시각장애인을 위한 스마트 선글라스
 ## YouTube 발표 영상 링크
 https://www.youtube.com/watch?v=8NaU5azHdhg&list=PLysGR-hSRFyGE45dD5FJXEER9x7MNO9tc&index=4
 
@@ -61,6 +61,7 @@ https://www.youtube.com/watch?v=8NaU5azHdhg&list=PLysGR-hSRFyGE45dD5FJXEER9x7MNO
 |:------:|--------------|
 |박상준|Mobilenet SSD 객체탐지 딥러닝 데이터셋 구축 및 학습|
 |최용태|Mobilenet SSD 딥러닝 모델 구축, Coral board 제어 및 통신환경 개발|
-|홍진원|Navigation API 서버 구축, Android application 개발|
 |정원석|Navigation API 서버 구축, Android application 개발|
+|홍진원|Navigation API 서버 구축, Android application 개발|
+
 
