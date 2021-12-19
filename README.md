@@ -3,7 +3,11 @@
 https://www.youtube.com/watch?v=8NaU5azHdhg&list=PLysGR-hSRFyGE45dD5FJXEER9x7MNO9tc&index=4
 
 
-## 1. API Server
+
+## 1. 구성도
+
+
+## 2. API Server
 
 |**요약**|
 |----|
@@ -31,7 +35,7 @@ https://www.youtube.com/watch?v=8NaU5azHdhg&list=PLysGR-hSRFyGE45dD5FJXEER9x7MNO
      - 사용자가 목적지 입력시 설계한 API Server로 주기적으로 요청을 보내 경로안내 시작 
  
 
-## 2. CoralBoard 와 Android App 간의 TCP socket 통신
+## 3. CoralBoard 와 Android App 간의 TCP socket 통신
 
 |**요약**|
 | -------------- |
@@ -51,9 +55,8 @@ https://www.youtube.com/watch?v=8NaU5azHdhg&list=PLysGR-hSRFyGE45dD5FJXEER9x7MNO
       - socket으로부터 전달받은 byte배열을 16진수로 변환 뒤, 문자열로 변환
       - 객체의 이름, 객체의 위치로 전달하기 위해 출력값 정제 후 시각장애인을 위한 객체인식 메시지 TTS출력  
 
-## 구성도
 
-## 역할 분담
+## 4. 역할 분담
 |이름|담당 업무|
 |:------:|--------------|
 |박상준|mobilenet ssd 객체탐지 딥러닝 데이터셋 구축 및 학습|
