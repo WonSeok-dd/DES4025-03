@@ -24,10 +24,11 @@ https://www.youtube.com/watch?v=8NaU5azHdhg&list=PLysGR-hSRFyGE45dD5FJXEER9x7MNO
      - GetNavigator : T-MAP API에서 제공하는 보행자 경로 안내 API서버로 GET요청을 통해 사용자에게 보행자 경로안내 서비스를 제공
     
    다. NavigationThread
-      - 각 단계마다 thread sleep을 통해 STT 및 TTS실행 
-      - 사용자가 Android App에서 네비게이션 시작 버튼을 클릭시 시각장애인을 위한 목적지입력요청 메시지 TTS출력
-      - 사용자가 Android App에서 목적지입력 STT실행 
-      - 사용자가 목적지 입력시 설계한 API Server로 주기적으로 요청을 보내 경로안내 시작 
+      
+     - 각 단계마다 thread sleep을 통해 STT 및 TTS실행 
+     - 사용자가 Android App에서 네비게이션 시작 버튼을 클릭시 시각장애인을 위한 목적지입력요청 메시지 TTS출력
+     - 사용자가 Android App에서 목적지입력 STT실행 
+     - 사용자가 목적지 입력시 설계한 API Server로 주기적으로 요청을 보내 경로안내 시작 
  
 
 ## CoralBoard 와 Android App 간의 TCP socket 통신
