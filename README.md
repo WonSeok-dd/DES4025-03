@@ -3,7 +3,7 @@
 https://www.youtube.com/watch?v=8NaU5azHdhg&list=PLysGR-hSRFyGE45dD5FJXEER9x7MNO9tc&index=4
 
 
-## API Server
+## 1. API Server
 
 |**요약**|
 |----|
@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=8NaU5azHdhg&list=PLysGR-hSRFyGE45dD5FJXEER9x7MNO
      - 사용자가 목적지 입력시 설계한 API Server로 주기적으로 요청을 보내 경로안내 시작 
  
 
-## CoralBoard 와 Android App 간의 TCP socket 통신
+## 2. CoralBoard 와 Android App 간의 TCP socket 통신
 
 |**요약**|
 | -------------- |
