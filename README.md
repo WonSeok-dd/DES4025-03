@@ -3,7 +3,6 @@
 https://www.youtube.com/watch?v=8NaU5azHdhg&list=PLysGR-hSRFyGE45dD5FJXEER9x7MNO9tc&index=4
 
 
-
 **API Server**
 |--------------|
 |1. 본 프로젝트의 대상자는 시각장애인이므로 네비게이션을 위해 앱을 연동하고 여러 가지 트리거(ex버튼)를 배치하는 것은 적합하지 않다는 판단이 있었다.|
