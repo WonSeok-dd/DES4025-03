@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=8NaU5azHdhg&list=PLysGR-hSRFyGE45dD5FJXEER9x7MNO
 
 
 ## 1. 구성도
-
+![image](https://user-images.githubusercontent.com/75558861/146684563-aea40b1d-6b76-46db-ae91-23f477fa18c3.png)
 
 ## 2. API Server
 
