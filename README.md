@@ -2,7 +2,7 @@
 ### YouTube 발표 영상 링크
 https://www.youtube.com/watch?v=8NaU5azHdhg&list=PLysGR-hSRFyGE45dD5FJXEER9x7MNO9tc&index=4
 
-
+<br/><br/>
 
 ## 1. 구성도
 ![image](https://user-images.githubusercontent.com/75558861/146684563-aea40b1d-6b76-46db-ae91-23f477fa18c3.png)
