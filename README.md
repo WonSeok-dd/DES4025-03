@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=8NaU5azHdhg&list=PLysGR-hSRFyGE45dD5FJXEER9x7MNO
 
    가. Routing
    
-     - getnavigator : querystring으로 현재위치의 위도값, 현재위치의 경도값, 최종 목적지를 받는다.
+     - /getnavigator : querystring으로 현재위치의 위도값, 현재위치의 경도값, 최종 목적지를 받는다.
      문자열인 최종 목적지를 설계한 비동기함수를 통해 위도,경도값으로 변환 후 T-MAP API에서 제공하는 보행자 경로 안내 API서버로 GET요청을 통해 
      사용자에게 보행자 경로안내 서비스를 제공 
  
