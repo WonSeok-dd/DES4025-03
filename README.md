@@ -1,5 +1,5 @@
 # 시각장애인을 위한 스마트 선글라스
-## YouTube 발표 영상 링크
+### YouTube 발표 영상 링크
 https://www.youtube.com/watch?v=8NaU5azHdhg&list=PLysGR-hSRFyGE45dD5FJXEER9x7MNO9tc&index=4
 
 
