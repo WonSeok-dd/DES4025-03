@@ -43,13 +43,13 @@ https://www.youtube.com/watch?v=8NaU5azHdhg&list=PLysGR-hSRFyGE45dD5FJXEER9x7MNO
 |구축한 TCP Server의 IP주소와 PORT에 맞게 Android App에서 Client socket을 생성하여 연결시킨다. |
 |CoralBoard에서 탐지한 객체의 일치 확률, 객체의 이름, 객체의 위치값을 Android App에서 정제하여 사용자에게 TTS로 출력해준다.|
 
-   가. ConnectThread 
+   가. Android Studio - ConnectThread 
        
       - 사용자가 Android App에서 소켓 연결 시작 버튼을 클릭시 
         구축한 TCP Server의 IP주소와 PORT에 맞게 Client Socket을 생성하여 CoralBoard와 연결하고 
         시각장애인을 위한 CoralBoard연결 완료 메시지 TTS출력
 
-   나. StartThread
+   나. Android Studio - StartThread
       
       - 사용자가 Android App에서 객체 인식 시작 버튼을 클릭시 socket 통신을 시작
       - socket으로부터 전달받은 byte배열을 16진수로 변환 뒤, 문자열로 변환
