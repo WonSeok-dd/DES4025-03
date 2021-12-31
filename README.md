@@ -16,18 +16,18 @@ https://www.youtube.com/watch?v=8NaU5azHdhg&list=PLysGR-hSRFyGE45dD5FJXEER9x7MNO
 |설계한 API서버에 시작점(경도,위도) 와 도착점(목적지명)으로 요청이 들어오면 경로안내를 제공하기 위해 목적지의 경도,위도 좌표를 추출해야 했다. 따라서 먼저 목적지의 위도,경도 값을 추출하고 시작점,도착점(경도/위도)로 새롭게 전환한다.|
 |바뀐 값으로 T-MAP 보행자 경로 안내 API서버로 GET요청을 통해 관련 정보들이 담긴 JSON 파일을 받아온다. 이 값에서 현재 실시간으로 경로안내 정보만을 파싱하여 경로안내 요청을 보낸 곳으로 응답한다.|
 
-   가. Routing
+   가. Node.js - Routing
    
      - /getnavigator : querystring으로 현재위치의 위도값, 현재위치의 경도값, 최종 목적지를 받는다.
      문자열인 최종 목적지를 설계한 비동기함수를 통해 위도,경도값으로 변환 후 T-MAP API에서 제공하는 보행자 경로 안내 API서버로 GET요청을 통해 
      사용자에게 보행자 경로안내 서비스를 제공 
  
-   나. Function
+   나. Node.js - Function
    
      - GetPOIsearch : T-MAP API에서 제공하는 명칭(POI)통합검색 API서버로 POST요청을 통해 사용자가 입력한 목적지를 위도,경도값으로 변환
      - GetNavigator : T-MAP API에서 제공하는 보행자 경로 안내 API서버로 GET요청을 통해 사용자에게 보행자 경로안내 서비스를 제공
     
-   다. NavigationThread
+   다. Android Studio - NavigationThread
       
      - 각 단계마다 thread sleep을 통해 STT 및 TTS실행 
      - 사용자가 Android App에서 네비게이션 시작 버튼을 클릭시 시각장애인을 위한 목적지입력요청 메시지 TTS출력
