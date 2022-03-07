@@ -24,8 +24,8 @@ https://www.youtube.com/watch?v=8NaU5azHdhg&list=PLysGR-hSRFyGE45dD5FJXEER9x7MNO
  
    나. Node.js - Function
    
-     - GetPOIsearch : T-MAP API에서 제공하는 명칭(POI)통합검색 API서버로 POST요청을 통해 사용자가 입력한 목적지를 위도,경도값으로 변환
-     - GetNavigator : T-MAP API에서 제공하는 보행자 경로 안내 API서버로 GET요청을 통해 사용자에게 보행자 경로안내 서비스를 제공
+     - GetPOIsearch : T-MAP API에서 제공하는 명칭(POI)통합검색 API서버로 GET요청을 통해 사용자가 입력한 목적지를 위도,경도값으로 변환
+     - GetNavigator : T-MAP API에서 제공하는 보행자 경로 안내 API서버로 POST요청을 통해 사용자에게 보행자 경로안내 서비스를 제공
     
    다. Android Studio - NavigationThread
       
