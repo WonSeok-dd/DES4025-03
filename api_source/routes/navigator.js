@@ -1,6 +1,5 @@
-const e = require("express");
 const express = require("express");
-const data=require("./restApi.js");
+const data = require("./restApi.js");
 const router = express.Router();
 
 router.get('/getnavigator',async(req,res,next)=>{

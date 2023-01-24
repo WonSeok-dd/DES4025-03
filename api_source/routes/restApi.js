@@ -1,6 +1,5 @@
-const { default: axios, Axios } = require("axios");
-const { urlencoded } = require("express");
-const express = require("express");
+const { default: axios} = require("axios");
+
 //x : 경도 y:위도
 const GetNavigator = async(startX,starty,endX,endY)=>{
     try{
